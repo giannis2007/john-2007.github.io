@@ -3,4 +3,8 @@ You made it this far! Challenge complete! Congratulations!
 Your secret code is: you_just_mastered_changing_directories
 
 ------------------------------------------------------------------------------------
+Running the program to find out what it does?
+Remember, program output is not a manual page - look elsewhere.
 
+
+-----------------------------------------------------------------------------------
