@@ -1,3 +1,2 @@
-byte0: You made it this far! Challenge complete! Congratulations!
-
-Your secret code is: you_just_mastered_changing_directories
+byte0: Your secret code is: you_just_mastered_changing_directories
+byte1: Remember, program output is not a manual page - look elsewhere.
